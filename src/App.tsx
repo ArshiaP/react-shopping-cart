@@ -12,7 +12,6 @@ import Cart from "./Cart/Cart";
 
 //Styles
 import { Wrapper, StyledButton } from "./App.styles";
-import { idText } from "typescript";
 
 //Types
 export type CartItemType = {
